@@ -1,2 +1,2 @@
 # Pre-Final-Webtech-2020-62070139-IT
-for prefinal webtech
+ใช้ไฟล์ JSON จากใน folder ทั้งข้อ 1 และ 2 ครับ (ทำไม่เสร็จสักข้อครับ)
